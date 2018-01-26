@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Local Messenger </title>
+	<style>
+      body{background-image:url('https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2386489/1360/971/m1/fpnw/wm1/ru1xl6fhc4w3akltednghiqx23ho6jzvhkr2rtqvxhk7yororgfczebhbvfx5ydm-.jpg?1489118290&s=2c13789304d5350c001b867f8d3eedd3'); 
+              background-size:100%; 
+              padding:25px 50px 25px 50px}
+      h1{text-align:center; 
+              color:rgb(0,0,150)}
+      p{text-align:center}
+      div.body{background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ftimnDO3A657x9Wp3rTl7oqkcY_dVGvrvSauSH_ZLJewfDaf')}
+      ol{padding-left:20%}
+      ul{padding-left:10%}
+      h2{text-align:center}
+      img.title{width:300px}
+      p.fancy{color:#663c00}
+	</style>
+</head>
+<body>
+    <div class="body">
+	<br />
+    <h1> <img class="title" src="http://www.thejourneywith.us/hp_wordpress/wp-content/uploads/2017/12/coming-soon.png" /></h1>
+	<br />
+	<br />
+	<br />
+	<p class="fancy"> Within in the recent years, news has become more focused on the events <br />
+	that have been going on worldwide, and it has reduced the focus on our local news. <br />
+	Many major news app put all of their attention on the stories and coverage that <br />
+    is on a nation-wide and global basis. Apps that focus on local news falsely advertise <br />
+	this ideal, and they often do not show relevant news material. My app has the goal of <br />
+	of bringing the audience recent news coverage that includes the weather, local news, and <br />
+	important facts that pertain to the customer. </p>
+	<p class="fancy"> Once you start my app, the user will have to engage in a short registration process <br />
+	which only asks for an email. This registration process will also include a survey which <br />
+	which asks the user what types of news content would be preferred. This will create an <br />
+	an algorithm that sorts out the type of news media that is displayed to the user. This sort <br />
+	of preference control can be tweeked or edited according to the user's preference. The user <br />
+	will be asked to give the app permission to use their location in order to process the local <br />
+	content that will be displayed.</p>
+	<p class="fancy"> Once users launch the app, they will be given a front page with the most significant news <br />
+	of the day. They will be able to enter the app and will be shown several different pages to <br />
+	to view. For example, the user will be able to navigate to the tech news, medical news, sports, <br />
+	and weather at any time. If the user is curious, they can click on the tabs and choose to <br />
+	their topic; afterwards, they can choose to read articles, watch videos, or view reports <br /> 
+	as they wish. </p>
+	<br />
+	<h2> Similar Apps </h2>
+	<ol> 
+		<li> <a href="http://www.msnbc.com"> MSNBC </a> ; MSNBC is an American news cable and satellite television <br />
+          network that provides news coverage and political commentary from <br />
+          NBC News on current events. </li>
+		<li> <a href="http://www.cnn.com"> CNN: On the Go </a> ; Cable News Network is an American basic cable <br />
+          and satellite television news channel owned by the Turner Broadcasting <br />
+          System, a division of Time Warner. CNN was founded in 1980</li>
+		<li> <a href="http://www.foxnews.com"> Fox News </a> ; Fox News is an American basic cable and satellite television <br />
+          news channel owned by the Fox Entertainment Group, a subsidiary of 21st <br /> 
+          Century Fox. </li>
+        <li> <a href="http://www.newson.com"> Newson </a> ; A news app that shows local news and other media within <br />
+          the user's location. It is convenient and is a locally run app.</li>                                       
+	</ol>
+	<br />   
+	<h2> Local Messenger is Superior </h2> 
+	<ul> 
+		<li> My app will have an algorithm that will consistently update the news that is displayed. </li>
+		<li> My app will be cheaper than other news apps as it will not rely on a server and use offline features. </li>
+		<li> My app will focus more on local news that is important to the user. </li>
+		<li> My app will not limit itself to resorting to adds and sponsorships. </li>
+		<li> My app will incorporate a majority of news media from a variety of sources (linked to sites and original news coverage) </li>
+	</ul>
+    <br />
+    <br />
+    </div>
+</body>
+</html>
