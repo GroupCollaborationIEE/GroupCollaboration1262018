@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Why Wait?</title>
+	<style>
+	
+      body{background-image:url('https://image.freepik.com/free-vector/modern-background-polygonal-texture_1048-5116.jpg')}
+      h1{text-align:center;color:black};
+		
+        
+	
+	</style>
+</head>
+<body>
+	<h1>Coming Soon!<br> "Why Wait?"</h1>
+		<br />
+		<br />
+		<br />
+			<div style="text-align:center; color:white; background-color:#7FD8FF; padding: 2cm 1cm 2cm 1cm">
+				<p> In this app, You will not only be able to track the table wait times, but you <br /> 
+				can also see the menus. When you enter the app, you will be required to sign in <br />
+				and answer a couple questions for our staff. When the sign-in process is overwith, <br />
+				you will be able to search for your favorite restaurants in the Northwest Indiana area.</p>
+				<p> Some of the other features of our apps include, shake and find, menu search, and <br />
+				restaurant suggestion. The "shake and find" area of the app is for those kind of people <br />
+				who can never seem to make of their mind on a place to eat. All you have to do is shake <br />
+				the phone, and the app will give you a suggestions on where to go. In the menu search, <br />
+				all you have to do is enter a few key words on the type of food you are looking for, <br />
+				and the app will find the closest match to your search.</p>
+			</div>
+          <h2 style="text-align:center;color:black">Related Apps</h3>
+  <div style="; color:white; background-color:#19C0FF; padding: 2cm 1cm 2cm 1cm">
+	<ol>
+		<li><a href="http://nowait.com/"> Nowait </a></li>
+		<li><a href="https://www.taskrabbit.com/"> Task Rabbit </a></li>
+		<li><a href="https://www.density.io/"> Density </a></li>
+	</ol>
+  </div>
+  
+		<h2 style="text-align:center;color:Black">The differences Between Us and Our Opponents</h3>
+  <div style="; color:white; background-color:#199EFF; padding: 2cm 1cm 2cm 1cm">
+	<ul>
+		<li>We have the "Shake and Find" Feature</li>
+		<li>Not only do we include wait times, but <br />
+		we also include the menus for those restaurants</li>
+		<li>We also allow you to make reservations with <br />
+		groups between the amounts of 1-6</li>
+	</ul>
+  </div>
+</body>
+</html>
